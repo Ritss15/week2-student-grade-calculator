@@ -1,0 +1,11 @@
+Test Case 1:
+Input: Name=Priya, Marks=85
+Output: Grade B
+
+Test Case 2:
+Input: Name=Rahul, Marks=92
+Output: Grade A
+
+Test Case 3:
+Input: Marks=110
+Output: Invalid marks message
